@@ -17,9 +17,12 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="JavaScript" />
         <SkillList src={checkMarkIcon} skill="TypeScript" />
         <SkillList src={checkMarkIcon} skill="Node" />
+<<<<<<< HEAD
          <SkillList src={checkMarkIcon} skill="Python" />
         <SkillList src={checkMarkIcon} skill="SQL" />
         <SkillList src={checkMarkIcon} skill="MongoDB" />
+=======
+>>>>>>> fa84d4f67ecb22255e985857f95428629197e8b1
       </div>
       <hr />
       <div className={styles.skillList}>

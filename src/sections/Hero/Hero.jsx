@@ -53,7 +53,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
 
-       Software Developer with a strong interest in building scalable and efficient systems by combining expertise in Data Engineering and Frontend Development. Passionate about transforming data into actionable insights and creating seamless digital experiences with modern web technologies
+       Software Developer passionate about building scalable systems and seamless digital experiences with expertise in Data Engineering and Frontend Development
 
 
 

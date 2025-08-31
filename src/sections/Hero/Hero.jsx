@@ -36,9 +36,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>
-          Ilham
-          <br />
-          Dosdiyev
+          Ilham<br />Dosdiyev
         </h1>
 
         <h2>Software Developer</h2>
@@ -57,7 +55,7 @@ function Hero() {
 
        Software Developer with a strong interest in building scalable and efficient systems by combining expertise in Data Engineering and Frontend Development. Passionate about transforming data into actionable insights and creating seamless digital experiences with modern web technologies
 
-        Driven by a passion for crafting high performance and scalable React applications tailored to elevate digital experiences for modern businesses
+
 
         </p>
         <a href={CV} download>

@@ -43,7 +43,7 @@ function Hero() {
 
         <h2>Software Developer</h2>
 
-        <h2>Frontend Developer</h2>
+
 
         <span>
           <a href="https://github.com/ilhamitto1" target="_blank">
